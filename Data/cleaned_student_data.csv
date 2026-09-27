@@ -1,0 +1,51 @@
+StudentID,StudentName,Course,Specialization,Marks10th,Marks12th,CGPA,TechnicalSkills,Certifications,ProjectCount,InternshipStatus,CodingScore,AptitudeScore,CommunicationScore,PlacementStatus
+1,Aarav Sharma,B.Tech,Computer Science & Engineering,82.0,78.0,8.1,"Python, SQL, Power BI",SQL Certification,2,Yes,85.0,82.0,80.0,Placed
+2,Aditya Verma,B.Tech,Computer Science & Engineering,76.0,81.0,8.2,"Java, SQL, Excel",Java Certification,1,Yes,72.0,68.0,75.0,Placed
+3,Akash Negi,B.Tech,Computer Science & Engineering,88.0,85.0,8.7,"Python, SQL, Pandas",Python Certification,3,No,91.0,88.0,86.0,Placed
+4,Ananya Gupta,B.Tech,Computer Science & Engineering,91.0,89.0,9.1,"Python, SQL, Machine Learning",Machine Learning Certification,2,Yes,64.0,70.0,68.0,Not Placed
+5,Arjun Mehta,B.Tech,Information Technology,74.0,72.0,7.5,"Java, HTML, CSS",Web Development Certification,1,No,78.0,75.0,81.0,Placed
+6,Ayush Rawat,B.Tech,Information Technology,80.0,83.0,8.3,"Python, SQL, Power BI",Power BI Certification,2,Yes,55.0,62.0,60.0,Not Placed
+7,Bhavya Singh,B.Tech,Information Technology,69.0,75.0,7.4,"C, C++, SQL",C++ Certification,1,No,88.0,84.0,89.0,Placed
+8,Chetan Kumar,B.Tech,Artificial Intelligence & Machine Learning,85.0,79.0,8.0,"Python, JavaScript, SQL",Python Certification,3,Yes,69.0,73.0,71.0,Not Placed
+9,Deepak Joshi,B.Tech,Artificial Intelligence & Machine Learning,78.0,82.0,8.4,"Java, SQL, Excel",SQL Certification,2,Yes,95.0,92.0,90.0,Placed
+10,Diya Kapoor,B.Tech,Data Science,92.0,90.0,9.2,"Python, SQL, Machine Learning",Machine Learning Certification,3,Yes,61.0,65.0,64.0,Not Placed
+11,Gaurav Rana,B.Tech,Data Science,71.0,77.0,7.6,"C++, Python, SQL",Python Certification,1,No,82.0,79.0,85.0,Placed
+12,Harsh Vardhan,B.Tech,Electronics & Communication Engineering,84.0,86.0,8.6,"Python, SQL, Power BI",Power BI Certification,2,Yes,74.0,70.0,76.0,Placed
+13,Ishita Sharma,B.Tech,Electronics & Communication Engineering,89.0,91.0,9.0,"Python, SQL, Machine Learning",Machine Learning Certification,3,Yes,90.0,87.0,88.0,Placed
+14,Karan Malhotra,B.Tech,Cyber Security,73.0,76.0,7.7,"Java, HTML, CSS",Web Development Certification,1,No,58.0,63.0,61.0,Not Placed
+15,Kavya Nair,B.Tech,Cyber Security,81.0,80.0,8.1,"Python, SQL, Excel",SQL Certification,2,Yes,77.0,81.0,79.0,Placed
+16,Kunal Bisht,BCA,General,67.0,71.0,7.3,"C, C++, SQL",C++ Certification,1,No,68.0,72.0,70.0,Not Placed
+17,Manish Rawat,BCA,General,79.0,84.0,8.5,"Python, SQL, Pandas",Python Certification,2,Yes,86.0,89.0,84.0,Placed
+18,Mehak Gupta,BCA,General,86.0,88.0,8.9,"Python, SQL, Power BI",Power BI Certification,3,Yes,63.0,67.0,65.0,Not Placed
+19,Mohit Negi,BCA,General,75.0,73.0,7.6,"Java, SQL, Excel",Java Certification,1,No,93.0,90.0,91.0,Placed
+20,Naman Tiwari,BCA,Data Science,90.0,87.0,8.8,"Python, SQL, Machine Learning",Machine Learning Certification,2,Yes,71.0,69.0,74.0,Placed
+21,Neha Sharma,BCA,Data Science,83.0,85.0,8.7,"Python, SQL, Pandas",Python Certification,3,Yes,80.0,78.0,82.0,Placed
+22,Nikhil Kumar,BCA,Data Science,77.0,74.0,7.8,"C++, SQL, Excel",SQL Certification,1,No,59.0,64.0,62.0,Not Placed
+23,Palak Verma,BCA,Artificial Intelligence,88.0,82.0,8.5,"Python, SQL, Power BI",Power BI Certification,2,Yes,89.0,85.0,87.0,Placed
+24,Piyush Singh,BCA,Artificial Intelligence,72.0,70.0,7.2,"Java, HTML, CSS",Web Development Certification,1,No,66.0,71.0,69.0,Not Placed
+25,Pragya Joshi,BCA,Artificial Intelligence,80.0,78.0,8.0,"Python, SQL, Excel",SQL Certification,2,Yes,76.0,80.0,78.0,Placed
+26,Rahul Rana,BCA,Cloud Computing,93.0,91.0,9.3,"Python, SQL, Machine Learning",Machine Learning Certification,3,Yes,92.0,91.0,89.0,Placed
+27,Riya Kapoor,BCA,Cloud Computing,68.0,72.0,7.4,"C, C++, SQL",C++ Certification,1,No,62.0,66.0,68.0,Not Placed
+28,Rohan Mehta,MCA,General,85.0,87.0,8.8,"Python, JavaScript, SQL",Python Certification,2,Yes,84.0,82.0,85.0,Placed
+29,Sachin Rawat,MCA,General,76.0,79.0,8.0,"Java, SQL, Excel",Java Certification,1,No,73.0,76.0,72.0,Placed
+30,Sakshi Gupta,MCA,General,89.0,90.0,9.1,"Python, SQL, Machine Learning",Machine Learning Certification,3,Yes,57.0,61.0,59.0,Not Placed
+31,Saurabh Negi,MCA,General,82.0,80.0,8.3,"Python, SQL, Pandas",Python Certification,2,Yes,87.0,86.0,88.0,Placed
+32,Shivam Sharma,MCA,Data Science,74.0,77.0,7.7,"C++, SQL, Excel",SQL Certification,1,No,70.0,74.0,73.0,Not Placed
+33,Shreya Singh,MCA,Data Science,91.0,88.0,9.0,"Python, SQL, Power BI",Power BI Certification,3,Yes,94.0,89.0,92.0,Placed
+34,Simran Kaur,MCA,Data Science,79.0,75.0,7.8,"Java, HTML, CSS",Web Development Certification,1,No,65.0,68.0,66.0,Not Placed
+35,Tanishq Verma,MCA,Artificial Intelligence,87.0,84.0,8.6,"Python, SQL, Machine Learning",Machine Learning Certification,2,Yes,79.0,77.0,81.0,Placed
+36,Tanvi Joshi,MCA,Artificial Intelligence,70.0,69.0,7.1,"C, C++, SQL",C++ Certification,1,No,60.0,63.0,65.0,Not Placed
+37,Ujjwal Kumar,MCA,Cyber Security,83.0,81.0,8.2,"Python, SQL, Pandas",Python Certification,2,Yes,83.0,88.0,84.0,Placed
+38,Vaibhav Rana,MCA,Cyber Security,78.0,85.0,8.4,"Python, SQL, Power BI",Power BI Certification,3,Yes,75.0,72.0,77.0,Placed
+39,Varun Mehta,B.Sc,Computer Science,90.0,86.0,8.9,"Python, SQL, Machine Learning",Machine Learning Certification,2,Yes,90.0,93.0,89.0,Placed
+40,Vikas Rawat,B.Sc,Computer Science,73.0,71.0,7.4,"Java, HTML, CSS",Web Development Certification,1,No,67.0,70.0,69.0,Not Placed
+41,Vishal Gupta,B.Sc,Computer Science,85.0,83.0,8.5,"Python, SQL, Excel",SQL Certification,2,Yes,81.0,79.0,83.0,Placed
+42,Yash Sharma,B.Sc,Data Science,81.0,79.0,8.1,"Python, SQL, Pandas",Python Certification,3,Yes,56.0,60.0,58.0,Not Placed
+43,Yashi Kapoor,B.Sc,Data Science,94.0,92.0,9.4,"Python, SQL, Machine Learning",Machine Learning Certification,2,Yes,88.0,91.0,86.0,Placed
+44,Yogesh Negi,B.Sc,Information Technology,69.0,74.0,7.5,"C, C++, SQL",C++ Certification,1,No,72.0,75.0,74.0,Placed
+45,Zoya Khan,B.Sc,Information Technology,88.0,86.0,8.9,"Python, SQL, Power BI",Power BI Certification,3,Yes,96.0,94.0,93.0,Placed
+46,Abhishek Rawat,B.Sc IT,Information Technology,77.0,80.0,8.0,"Java, SQL, Excel",Java Certification,1,No,63.0,69.0,67.0,Not Placed
+47,Ankit Sharma,B.Sc IT,Information Technology,84.0,82.0,8.4,"Python, SQL, Pandas",Python Certification,2,Yes,85.0,83.0,87.0,Placed
+48,Komal Singh,B.Sc IT,Information Technology,71.0,73.0,7.5,"Java, HTML, CSS",Web Development Certification,1,No,68.0,71.0,70.0,Not Placed
+49,Mansi Verma,B.Sc IT,Data Science,86.0,89.0,8.8,"Python, SQL, Machine Learning",Machine Learning Certification,3,Yes,91.0,90.0,92.0,Placed
+50,Rishabh Joshi,B.Sc IT,Data Science,80.0,76.0,7.9,"Python, SQL, Power BI",Power BI Certification,2,Yes,74.0,78.0,76.0,Placed
